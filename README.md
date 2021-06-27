@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"> 
+<img align="left" alt="Bootstrap" width="26px" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4"> 
 
 <img align="left" alt="Sass" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png"> 
 
