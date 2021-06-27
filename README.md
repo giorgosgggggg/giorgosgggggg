@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> 
 
-<img align="left" alt="Sass" width="26px" src="<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> "> 
+<img align="left" alt="Sass" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png"> 
+
+
