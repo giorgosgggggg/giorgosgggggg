@@ -1,5 +1,5 @@
 ### Hello World, I'm Giorgos 👋
-I'm a Web Development Student
+I'm Web Developer
 
 
 
